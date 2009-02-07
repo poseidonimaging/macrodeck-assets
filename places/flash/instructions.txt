@@ -1,0 +1,7 @@
+on line 22 on the actions layer inside the onrelease function you will find "selectedState"
+this is the thing that tells you what the user clicked on. 
+the next line passes that to the text box. 
+
+if you want to modify anything just read the comments in the actionscript. 
+
+if you have any problems please email me at lance@utahmovingads.com. i dont always check the comments on the site so make sure you email me. 
